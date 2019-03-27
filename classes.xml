@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<classes>
+    <class name="Circuit">
+        <rating>Intermediate</rating>
+        <price>R$120</price>
+        <duration/>
+    </class>
+        <class name="Dancersize">
+        <rating>All</rating>
+        <price>R$15</price>
+        <duration>Weekly - Pay per class</duration>
+    </class>
+        <class name="Mind and Body">
+        <rating>All</rating>
+        <price>R$100</price>
+        <duration>Course of six weeks</duration>
+    </class>
+        <class name="Pilates">
+        <rating>Intermediate</rating>
+        <price>R$130</price>
+        <duration>Course of eight weeks</duration>
+    </class>
+</classes>
