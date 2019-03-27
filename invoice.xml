@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Invoice>
+    <Number>012345</Number>
+    <Date>07/04/2013</Date>
+    <Address type="Shipping">
+        <Name>Cybelle Souza</Name>
+        <Company>Logicalis</Company>
+        <Address1>CENU Torre Norte</Address1>
+        <City>São Paulo</City>
+        <State>SP</State>
+        <Country>Brasil</Country>
+    </Address>
+    <Item1>
+        <SKU>334535455</SKU>
+        <Description>Cadeira de escritório</Description>
+        <Amount>10</Amount>
+        <Cost>199.99</Cost>
+        <Subtotal>1999.99</Subtotal>
+    </Item1>
+    <Item2>
+        <SKU>445356743A</SKU>
+        <Description>Mesa de escritório</Description>
+        <Amount>10</Amount>
+        <Cost>299.99</Cost>
+        <Subtotal>2999.99</Subtotal>
+    </Item2>
+    <TotalBeforeTax>4999.98</TotalBeforeTax>
+    <Tax>499.99</Tax>
+    <Total>5499.97</Total>
+</Invoice>
